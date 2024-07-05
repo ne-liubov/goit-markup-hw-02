@@ -4,7 +4,7 @@
     background-color: #FFFFFF; 
 }
 
-.logo-nav1 {
+.logo-part {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -17,7 +17,7 @@
     text-decoration: none;
 }
 
-.logo-nav2 {
+.logo-header {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -27,10 +27,23 @@
     color: #2e2f42;
 }
 
-.logo-nav1:hover,
-.logo-nav2:hover, 
-.logo-nav1:focus,
-.logo-nav2:focus {
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+    text-decoration: none;
+}
+
+.logo-footer:hover,
+.logo-footer:focus,
+.logo-part:hover,
+.logo-part:focus,
+.logo-header:hover,
+.logo-header:focus {
     text-decoration: underline;
 }
 
@@ -50,7 +63,7 @@
     color: #404bbf
 }
 
-.address {
+.add-ress {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -61,8 +74,8 @@
     font-style: normal;
 }
 
-.address:hover,
-.address:focus {
+.add-ress:hover,
+.add-ress:focus {
     text-decoration: underline;
     color: #404bbf
 }
@@ -101,6 +114,10 @@
 .button:hover,
 .button:focus {
     background-color: #404BBF
+}
+
+.li-solutions {
+    background-color: #FFFFFF;
 }
 
 .solutions {
@@ -181,36 +198,6 @@
 .footer {
     height: 312px;
     background: #2e2f42;
-}
-
-.logo-footer1 {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    width: 115px;
-    height: 24px;
-    text-decoration: none;
-}
-
-.logo-footer2 {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #f4f4fd;
-}
-
-.logo-footer1:hover,
-.logo-footer2:hover, 
-.logo-footer1:focus,
-.logo-footer2:focus {
-    text-decoration: underline;
 }
 
 .footer-info {
