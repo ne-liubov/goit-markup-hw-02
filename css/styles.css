@@ -1,5 +1,5 @@
 .body {
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF; 
 }
@@ -127,7 +127,7 @@
     background-color: #F4F4FD
 }
 
-.h2-team {
+.title-h {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -156,17 +156,6 @@
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-}
-
-.h2-portfolio {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 111%;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-    text-transform: capitalize;
 }
 
 .business {
