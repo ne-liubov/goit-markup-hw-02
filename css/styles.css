@@ -23,6 +23,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    text-decoration: none;
 }
 
 .logo-footer {
@@ -93,7 +94,7 @@
     line-height: 107%;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 .button {
@@ -103,7 +104,6 @@
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     cursor: pointer;
 }
@@ -137,7 +137,7 @@
     text-align: left;
 }
 
-.our-team {
+.list-team {
     background-color: #F4F4FD
 }
 
